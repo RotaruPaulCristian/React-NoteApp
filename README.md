@@ -1,4 +1,3 @@
-React notes App
 A notes app where users can enter character limited text to each note and save it in local storage, delete an existing note and dynamically search among the notes.
 
 https://react-notes-app-rpc.netlify.app/
